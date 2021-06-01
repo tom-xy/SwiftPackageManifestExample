@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyUtilities",
+        "repositoryURL": "https://github.com/yutao86/example-swift-package-manifest.git",
+        "state": {
+          "branch": null,
+          "revision": "ba75e97a9bf30fd1fea37ac3c01a688d7b7d8193",
+          "version": "0.0.13"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
